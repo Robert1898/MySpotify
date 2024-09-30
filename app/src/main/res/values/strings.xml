@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">MySpotify</string>
+    <string name="muzica">MUZICA</string>
+    <string name="albumName">Album Name</string>
+    <string name="albumDetails">Album details</string>
+    <string name="noroc">Hai noroc imbecilule!</string>
+    <string name="search">Search</string>
+    <string name="hint">Artists,songs or podcasts</string>
+    <string name="recomended">Recommended for Today</string>
+    <string name="popularAlbums">Popular Albums</string>
+    <string name="trending">Trending now</string>
 </resources>
